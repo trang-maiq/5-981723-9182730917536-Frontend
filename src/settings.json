@@ -1,0 +1,40 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": null
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": null
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": null
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": null
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": null
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": null
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": null
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": null
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Empower Your Code, Share Your Innovations",
+  "subtitle": "Join Techie: Where Passionate Software Engineers Inspire and Collaborate"
+}
